@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Tinkl
 //
-//  Created by ✨💖Erica Naglik💖✨ on 10/13/18.
+//  Created by Erica Naglik and Anwar Azeez on 10/13/18.
 //  Copyright © 2018 Zelik. All rights reserved.
 //
 
